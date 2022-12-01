@@ -1,2 +1,2 @@
 #!/bib/bash
-touch
+touch hello
