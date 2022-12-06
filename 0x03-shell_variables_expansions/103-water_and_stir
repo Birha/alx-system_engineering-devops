@@ -1,0 +1,2 @@
+#!/bin/bash
+printf '%o\n' $(( 5#$( echo $WATER | tr water 43210) + 5#$( echo $STIR | tr stir. 43210 ) )) | tr 76543210 bestchol
